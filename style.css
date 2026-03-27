@@ -16,7 +16,7 @@ header {
     padding: 30px;
 }
 
-.pic {
+.profile {
     width: 50px;
     border-radius: 10px;
 }
@@ -29,6 +29,7 @@ header {
 }
 
 .hobby-img {
+    height: 100px;
     margin-top: 10px;
     border-radius: 15px;
     justify-content: center;
