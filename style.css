@@ -16,8 +16,8 @@ header {
     padding: 30px;
 }
 
-.profile-pic {
-    max-width: 50px;
+.pic {
+    width: 50px;
     border-radius: 10px;
 }
 
@@ -28,8 +28,8 @@ header {
     text-align: center;
 }
 
-.hobby img {
-    margin-top: 15px;
+.hobby-img {
+    margin-top: 10px;
     border-radius: 15px;
     justify-content: center;
 }
@@ -37,8 +37,7 @@ header {
 footer {
     background-color: lightcolar;
     text-align: center;
-    padding: 15px 0;
+    padding: 15px;
     position: fixed;
     width: 100%;
-    bottom: 0;
 }
