@@ -1,6 +1,5 @@
 header {
     background-color: coral;
-    color: white;
     padding: 20px;
     text-align: center;
 }
@@ -12,27 +11,23 @@ header {
 
 .profile-pic {
     max-width: 100px;
-    border-radius: 50%;
+    border-radius: 10px;
 }
 
 #hobbies {
     display: flex;
     justify-content: space-around;
     padding: 20px;
-}
-
-.hobby {
     text-align: center;
 }
 
 .hobby img {
-    max-width: 150px;
+    max-width: 100px;
     border-radius: 10px;
 }
 
 footer {
     background-color: lightcolar;
-    color: white;
     text-align: center;
     padding: 15px 0;
     position: fixed;
