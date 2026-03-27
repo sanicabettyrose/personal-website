@@ -16,10 +16,19 @@ header {
     padding: 30px;
 }
 
+.profile-pic {
+    max-width: 200px;
+    border-radius: 50%;
+}
+
 #hobbies {
     display: flex;
     justify-content: space-around;
     padding: 20px;
+    text-align: center;
+}
+
+.hobby {
     text-align: center;
 }
 
