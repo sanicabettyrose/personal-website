@@ -2,11 +2,10 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
   <title>Personal Website</title>
-  <link rel="stylesheet" href="styles.css">
 </head>
-
 <body>
   <header>
     <h1>Welcome to My Personal Website</h1>
@@ -16,7 +15,7 @@
     <h2>About Me:</h2>
     <img src=".//8dc9e7d3-2436-4ae6-acc9-8f762681ecaf.jpg" alt="My Photo">
     <br>
-    <p>Hello! I am Betty Rose Sanica, welcome to my personal website.</p>
+    <h3>Hello! I am Betty Rose Sanica, welcome to my personal website.</h3>
   </section>
 <br>
   <section id="hobbies">
