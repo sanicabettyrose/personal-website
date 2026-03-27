@@ -16,10 +16,6 @@ header {
     padding: 30px;
 }
 
-.profile {
-    border-radius: 10px;
-}
-
 #hobbies {
     display: flex;
     justify-content: space-around;
